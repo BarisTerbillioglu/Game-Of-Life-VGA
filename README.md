@@ -25,3 +25,21 @@ Stage2 files:
 -Canvas_Memory
 -Canvas_Renderer_4Bit
 
+Stage3 files:
+-VGA_Stage3_Top_Final.
+-VGA_pixelClockGenerator
+-VGA_Block
+-VGA_HorizontalCounter
+-VGA_HorizontalSyncGenerator
+-VGA_VerticalCounter
+-VGA_VerticalSyncGenerator
+-VGA_xPixelyPixelGenerator
+-Simulation_Controller
+-Grid_Renderer
+-Grid_Memory_Controller
+-Game_of_Life_Engine
+-Cursor_Controller_Modular
+
+
+
+
