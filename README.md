@@ -40,6 +40,8 @@ Stage3 files:
 -Game_of_Life_Engine
 -Cursor_Controller_Modular
 
+********************************
+Stage 1 and 2 works. Stage 3 does not work.
 
 
 
